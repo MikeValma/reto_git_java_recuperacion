@@ -6,7 +6,8 @@ public class Calculadora {
         int num2 = 5;
         int resultado = sumar(num1, num2);
         
-        System.out.println("La suma de " + num1 + " y " + num2 + " es: " + resultado); [cite: 22]
+	//MODIFICADO
+        System.out.println("OPERACIÓN FINALIZADA - El resultado es: " + resultado);
     }
 
     // Función que devuelve la suma de dos números enteros
