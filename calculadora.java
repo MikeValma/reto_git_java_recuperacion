@@ -7,7 +7,8 @@ public class Calculadora {
         int resultado = sumar(num1, num2);
         
 	//MODIFICADO
-        System.out.println("OPERACIÓN FINALIZADA - El resultado es: " + resultado);
+        System.out.println("---El Resultado de Calculadora---")
+	System.out.println("OPERACIÓN FINALIZADA - El resultado es: " + resultado);
     }
 
     // Función que devuelve la suma de dos números enteros
