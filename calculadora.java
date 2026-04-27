@@ -8,6 +8,7 @@ public class Calculadora {
         
 	//MODIFICADO
         System.out.println("---RESULTADO CALCULADORA---");
+      
 	System.out.println("OPERACIÓN FINALIZADA - El resultado es: " + resultado);
     }
 
